@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T00:00:15.314Z",
+  "generated_at": "2026-11-26T00:09:11.425Z",
   "items": {
     "problem:1221": {
       "kind": "problem",
@@ -13,6 +13,19 @@
       "last_pushed_at": "2026-11-26T00:00:10.341Z",
       "language": "python",
       "lines": 16
+    },
+    "problem:1222": {
+      "kind": "problem",
+      "id": "1222",
+      "title": "Gradient of a Square with Autograd",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1222",
+      "path": "problems/1222-gradient-of-a-square-with-autograd",
+      "first_solved_at": "2026-11-26T00:09:10.698Z",
+      "last_pushed_at": "2026-11-26T00:09:10.698Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
